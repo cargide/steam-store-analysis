@@ -17,8 +17,10 @@ Fixing the values to homogenize both dataset and merge them.
 Analying the data to remove information that will not be used.
 
 ### 4 - Exploratory Data Analysis (WIP)
+Please refer to the Tableau link to see a preliminary analysis (just the plots)
 
-### 5 - Hypothesis testing (WIP)
+### 5 - Hypothesis testing
+I want to test if RPG games that are free have more than 500 positive reviews using a two tailed test.
 
 ### Extra - Tableau plotting
 https://public.tableau.com/app/profile/carlos.gil.denia/viz/SteamProject_16445212518660/Story1#1
